@@ -19,7 +19,7 @@
 ---
 
 ## Highlights
-- 🔎 **Search** by name of a complex.
+- 🔎 **Search** by name of a complex using Levenshtein algorithm.
 - ✍️ **Submit review**: rating → text → **confirm** → publish.
 - 🛡️ **Moderation queue** for admins.
 - 🚦 **Anti-spam & rate limits**.
