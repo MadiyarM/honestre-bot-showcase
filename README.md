@@ -69,7 +69,7 @@ The bot is a thin client over HTTP; business logic and storage live in Core.
 ## Status & Contact
 - **Status:** active (production).  
 - **Demo video:** `media/demo.mp4` *(optional — add if available)*  
-- **Contact:** **madiyarmukanov@gmail.com**
+- **Contact:** **mmukanovm@gmail.com**
 - **Telegram Link:** **[HonestREBOT](https://t.me/HonestREBot)**
 ---
 
